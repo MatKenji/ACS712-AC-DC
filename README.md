@@ -22,6 +22,16 @@ Este projeto é um exercício de treinamento para a criação de uma placa de ci
 
 O layout da PCB deve ser projetado de forma a garantir a integridade das medições de corrente, minimizando ruídos e interferências. Deve incluir pads para todos os componentes e espaços para conexões de entrada e saída de corrente.
 
+![esquematico](https://github.com/MatKenji/acs712/assets/169562589/0e250c1d-eabe-4ddc-b71b-6cdcbfaa01f5)
+
+![pccb](https://github.com/MatKenji/acs712/assets/169562589/baa1432b-4c7d-478e-90de-56c98457278c)
+
+![3d](https://github.com/MatKenji/acs712/assets/169562589/7e1d9490-e35e-4390-bfe9-bfa6a5fd7db1)
+
+![3d2](https://github.com/MatKenji/acs712/assets/169562589/9000e2d1-3ab7-4c4b-85a0-ea2684ac2e9b)
+
+
+
 ## Passos para Fabricação
 
 1. **Desenho do Esquema Elétrico**: Utilize um software KiCad para desenhar o esquema.
